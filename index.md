@@ -88,3 +88,9 @@
     git checkout -b <new_branch_name>
 
 ```
+## Удаление ветки
+
+Чтобы удалить ветку введите команду
+```
+    git branch -d <branch_name>
+```
